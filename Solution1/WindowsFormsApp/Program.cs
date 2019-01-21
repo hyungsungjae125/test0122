@@ -18,5 +18,6 @@ namespace WindowsFormsApp
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+        static string url = "http://192.168.3.17";
     }
 }
