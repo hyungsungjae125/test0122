@@ -1,0 +1,17 @@
+C:\Users\GDC20\Source\Repos\hyungsungjae125\test0122\Solution1\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.deps.json
+C:\Users\GDC20\Source\Repos\hyungsungjae125\test0122\Solution1\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.json
+C:\Users\GDC20\Source\Repos\hyungsungjae125\test0122\Solution1\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.dev.json
+C:\Users\GDC20\Source\Repos\hyungsungjae125\test0122\Solution1\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\GDC20\Source\Repos\hyungsungjae125\test0122\Solution1\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\GDC20\Source\Repos\hyungsungjae125\test0122\Solution1\WebApplication\bin\Debug\netcoreapp2.2\ClassLibrary.dll
+C:\Users\GDC20\Source\Repos\hyungsungjae125\test0122\Solution1\WebApplication\bin\Debug\netcoreapp2.2\ClassLibrary.pdb
+C:\Users\GDC20\Source\Repos\hyungsungjae125\test0122\Solution1\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csprojAssemblyReference.cache
+C:\Users\GDC20\Source\Repos\hyungsungjae125\test0122\Solution1\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\GDC20\Source\Repos\hyungsungjae125\test0122\Solution1\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cache
+C:\Users\GDC20\Source\Repos\hyungsungjae125\test0122\Solution1\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cs
+C:\Users\GDC20\Source\Repos\hyungsungjae125\test0122\Solution1\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfoInputs.cache
+C:\Users\GDC20\Source\Repos\hyungsungjae125\test0122\Solution1\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfo.cs
+C:\Users\GDC20\Source\Repos\hyungsungjae125\test0122\Solution1\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\GDC20\Source\Repos\hyungsungjae125\test0122\Solution1\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csproj.CopyComplete
+C:\Users\GDC20\Source\Repos\hyungsungjae125\test0122\Solution1\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\GDC20\Source\Repos\hyungsungjae125\test0122\Solution1\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.pdb
